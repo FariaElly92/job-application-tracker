@@ -1,0 +1,7 @@
+
+JOB APPLICATION TRACKER SUMMARY
+---------------------------------
+Total Applications: 4
+Interviews: 1
+Rejections: 1
+Waiting for Response: 2
